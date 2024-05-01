@@ -1,0 +1,11 @@
+sentence,audio_file_path
+I need to buy some groceries after work,./data/writing__dictation/question_0.wav
+Can you take out the trash before you leave,./data/writing__dictation/question_1.wav
+Remember to turn off the lights when you're done,./data/writing__dictation/question_2.wav
+What time is your appointment tomorrow,./data/writing__dictation/question_3.wav
+The weather is really nice for a walk today,./data/writing__dictation/question_4.wav
+Make sure to charge your phone tonight,./data/writing__dictation/question_5.wav
+How often do you go to the gym,./data/writing__dictation/question_6.wav
+Please send me the report by this afternoon,./data/writing__dictation/question_7.wav
+Do you want to grab lunch together later,./data/writing__dictation/question_8.wav
+Could you help me with this project for a moment,./data/writing__dictation/question_9.wav
